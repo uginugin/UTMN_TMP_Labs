@@ -4,7 +4,6 @@ import random
 import string
 import hashlib
 import time
-import random
 
 
 global FILENAME
