@@ -4,3 +4,4 @@
 - [Lab4_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab4_additional) (Docker)
 - [Lab5_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab5_additional) (Многопоточность(мультипроцессинг))
 - [Lab7_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab7_additional) (Бенчмарк)
+- [Lab9_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/patterns) (Паттерны ООП)
