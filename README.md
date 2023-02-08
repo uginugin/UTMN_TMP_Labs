@@ -1,4 +1,4 @@
-[Текст заданий](https://github.com/drmckay-kirill/dev_tech_tasks/blob/main/README_2021_2022.md)
+[Текст заданий](https://github.com/drmckay-kirill/dev_tech_tasks/blob/main/README_2021_2022.md#i-%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)
 - [Lab1](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab1) (Бинарное дерево) 
 - [Lab1_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab1_additional) (Сравнение поиска по файлу и дереву через хеши)
 - [Lab2_additional](https://github.com/uginugin/UTMN_TMP_Labs/tree/main/Lab2_additional) (kernel32)
